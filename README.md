@@ -1,1 +1,1 @@
-new repo made for testing out alx tasks
+prints a smiley
