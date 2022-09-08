@@ -1,1 +1,1 @@
-prints a smiley
+handling shell variablesand expansions 
